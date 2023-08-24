@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<p align="left">🎓  Graduating in Computer Science at UFC<br>🔭 Working as a project coordinator at CoDi Jr.<br>📚 I'm currently learning Web Dev with the "2023 Web Development Bootcamp" course by Dr. Angela Yu<br>🎯 I plan on learning about Swift and Backend Development with Python on 2023<br>🔍 Interested in Software Engineering, Data Structures and Algorithms</p>
+<p align="left">🎓  Graduating in Computer Science at UFC<br>🔭 Working as Full-Stack Developer at GREat and as project coordinator at CoDi Jr.<br>📚 I'm currently learning Web Dev with the "2023 Web Development Bootcamp" course by Dr. Angela Yu<br>🎯 I plan on learning about Swift and Backend Development with Python on 2023<br>🔍 Interested in Software Engineering, Data Structures and Algorithms</p>
 
 ###
 
